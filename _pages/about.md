@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-:light_bulb: Cheryl Li havs extensive experience in designing DL models and currently researching how to automate operations in large-scale software systems, requiring similar skills as AI for finance does.
+💡 Cheryl Li havs extensive experience in designing DL models and currently researching how to automate operations in large-scale software systems, requiring similar skills as AI for finance does.
 
-:laptop: Cheryl possess proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects.
+💻 Cheryl possess proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects.
 
-:sun: **Cheryl is actively looking for internships concerning FinTech or quantitative finance based on ML/DL.**
+☀️ **Cheryl is actively looking for internships concerning FinTech or quantitative finance based on ML/DL.**
