@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-💡 Cheryl Lee has extensive experience designing DL models and is currently researching how to automate operations in large-scale software systems, requiring similar skills as AI for finance.
+💡 Cheryl Lee has extensive experience designing Deep Learning models and is currently researching how to automate operations and testing in large-scale software systems.
 
-💻 Cheryl possesses proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects. She has published three papers in top conferences.
+💻 Cheryl possesses proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects. She has published four papers in top conferences.
 
 <!-- ☀️ **Cheryl is actively looking for internships concerning FinTech or quantitative finance based on ML/DL.** -->
