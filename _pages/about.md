@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. student at <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>, Department of Computer Science and Engineering, CUHK.
 
