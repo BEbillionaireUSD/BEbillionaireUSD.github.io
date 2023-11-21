@@ -20,4 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 💻 Cheryl possesses proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects. She has published four papers in top conferences.
 
+🌈 Preferred Gender Pronouns: They or She
+
 <!-- ☀️ **Cheryl is actively looking for internships concerning FinTech or quantitative finance based on ML/DL.** -->
