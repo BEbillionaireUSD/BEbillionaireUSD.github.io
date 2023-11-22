@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student at <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>, Department of Computer Science and Engineering, CUHK.
+subtitle: Postgraduate student at <a href='http://ariselab.cse.cuhk.edu.hk/'>ARISE Lab</a>, Department of Computer Science and Engineering, CUHK.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-💡 Cheryl Lee has extensive experience designing deep learning/operation models to automate operations and testing in large-scale software systems. She is currently researching human-centered technologies, including computer science education, collaboration tools in open-source projects, AI fairness, etc.
+💡 Cheryl Lee has extensive experience designing deep learning/operation models to automate operations and testing in large-scale software systems. She is currently researching human-centered technologies, including computer science education, collaboration tools in open-source software, AI fairness, etc.
 
 💻 Cheryl possesses proficient statistical, data analytics, and coding skills (python) developed through various relevant internships and research projects. She has published four papers in top conferences.
 
