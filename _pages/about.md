@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-💡 Cheryl Lee has extensive experience designing deep learning/optimization models to automate operations and testing in large-scale software systems. She is currently researching human-centered technologies, including computing education, collaboration tools in open-source software, AI fairness, etc.
+💡 Cheryl Lee has extensive experience designing deep learning and optimization models to automate operations and testing in large-scale software systems （AI4SE). She is currently researching human-centered technologies, including computing education, collaboration tools in open-source software, AI fairness, etc.
 
 💻 Cheryl possesses proficient statistical, data analytics, and coding skills (Python/C++) developed through various relevant internships and research projects. She has published four papers in top conferences.
 
