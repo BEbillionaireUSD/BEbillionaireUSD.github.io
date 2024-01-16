@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: I'm passionate about teaching students!
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Besides tutoring high school students, I taught Data Structures and Algorithms at <a href="https://en.neepu.edu.cn/">Northeast Electric Power University</a>.
 
-Organize your courses by years, topics, or universities, however you like!
+I served as a Teaching Assistant for two courses at CUHK:
+- <a href="https://proj.cse.cuhk.edu.hk/csci3100/">CSCI3100 Software Engineering</a> in 2022-2023 and 2023-2024 terms.
+- <a href="https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci2720/">CSCI2720 Building Web Applications</a> in the 2022-2023 term.
