@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: Resume_Cheryl_Lee.pdf
+cv_pdf: Resume_CherylLEE.pdf
 ---
