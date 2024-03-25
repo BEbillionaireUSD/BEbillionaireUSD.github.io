@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-💡 <span style="color: #3274D8"><b>My research interest lies in optimizing software automation via AI (AI4SE) and statistics.</b></span>
+💡 <span style="color: #3274D8"><b>My research interest lies in software automation via AI (AI4SE) and statistics.</b></span>
 - <b>AIOps</b>: automating software operations in cloud computing systems
 - <b>AIDev</b>: automating software testing, debugging, and developing
 <!-- 💻 <span style="color: #3274D8">Skills</span>: Cheryl possesses proficient statistical, DL/ML modeling, and coding skills (Python/C++) developed through various internships (<a href="https://www.apple.com/">Apple</a>, <a href="https://www2.deloitte.com/cn/en.html">Deloitte</a>, etc.) and research projects. -->
