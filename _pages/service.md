@@ -10,9 +10,9 @@ nav_order: 2
 ### Academic Service
 
 <b>@Reviewer</b> 
-- The web conference (WWW) 2024
+- 2024: ACL Rolling Review (ARR), The web conference (WWW), The International Conference on Computer Supported Cooperative Work in Design (CSCWD) 
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
-- The International Conference on Computer Supported Cooperative Work in Design (CSCWD) 2024
+- IEEE Transactions on Knowledge and Data Engineering
 
 <b>@Sub-Reviewer</b> 
 - ICSE 2024
