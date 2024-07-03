@@ -27,4 +27,4 @@ social: true  # includes social icons at the bottom of the page
 <!-- 🌈 Preferred Gender Pronouns: They or She -->
 
 <!-- 🍻 <b>Cheryl is actively looking for cooperation opportunities concerning DL(LLM)-empowered software automation. Please directly email me!</b> -->
- 🍻 <span style="color: #3274D8">Skills</span>: Cheryl possesses proficient statistical, DL/ML modeling, and coding skills (Python/C++) developed through various internships (<a href="https://www.apple.com/">Apple</a>, <a href="https://www2.deloitte.com/cn/en.html">Deloitte</a>, etc.) and research projects. She is actively looking for opportunities concerning LLMs, FinTech, and Quant. Please directly email me!
+ 🍻 Cheryl possesses proficient statistical, DL/ML modeling, and coding skills (Python/C++) developed through various internships (<a href="https://www.apple.com/">Apple</a>, <a href="https://www2.deloitte.com/cn/en.html">Deloitte</a>, etc.) and research projects. She is actively looking for opportunities concerning **LLMs and FinTech**. Please directly email me!
