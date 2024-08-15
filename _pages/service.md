@@ -8,11 +8,15 @@ nav_order: 2
 ---
 
 ### Academic Service
-
+<b>@Shadow Program Chair</b> 
+- ICSE 2025
+  
 <b>@Reviewer</b> 
-- 2024: ACL Rolling Review (ARR), The web conference (WWW), The International Conference on Computer Supported Cooperative Work in Design (CSCWD) 
-- ACM Transactions on Software Engineering and Methodology (TOSEM)
-- IEEE Transactions on Knowledge and Data Engineering
+- Conferences:
+  - 2024: ACL Rolling Review (ARR), The web conference (WWW), The International Conference on Computer Supported Cooperative Work in Design (CSCWD) 
+- Journals:
+  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
 <b>@Sub-Reviewer</b> 
 - ICSE 2024
