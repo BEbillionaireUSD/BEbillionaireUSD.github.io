@@ -8,8 +8,9 @@ nav_order: 2
 ---
 
 ### Academic Service
-<b>@Shadow Program Chair</b> 
-- ICSE 2025
+<b>@Program Chair</b> 
+- Shadow PC of the Research Track: ICSE 2025
+- PC of the Artifact Evaluation Track: ICSE 2025
   
 <b>@Reviewer</b> 
 - Conferences:
