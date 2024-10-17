@@ -9,9 +9,9 @@ nav_order: 2
 
 ### Academic Service
 <b>@Program Chair</b> 
-- Shadow PC of the Research Track: ICSE 2025
-- PC of the Artifact Evaluation Track: ICSE 2025
-- PC of the Technical Track: AIML 2025
+- Shadow PC | Technical Track: ICSE 2025
+- PC | Artifact Evaluation Track: ICSE 2025
+- PC | Technical Track: AIML 2025
   
 <b>@Reviewer</b> 
 - Conferences:
