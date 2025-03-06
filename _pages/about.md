@@ -25,4 +25,4 @@ social: true  # includes social icons at the bottom of the page
 Before coming to CUHK, I completed my undergrad at <a href="https://english.pku.edu.cn/">Peking University</a>, majoring in Computer Science and obtained a master's degree in Operations Research from <a href="https://tech.cornell.edu/">Cornell Tech</a>.
 I've published **6** papers (**4 first-authored**) in top conferences <a href="https://dl.acm.org/conference/icse">ICSE</a>, <a href="https://dl.acm.org/conference/ase">ASE</a>, and <a href="https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings">ICDE</a> (<a href="http://portal.core.edu.au/conf-ranks/?search=Software&by=all&source=CORE2023&sort=arank&page=1">CORE A*</a>) .
 
-🍻 <b>I'll be available in the job market before Jun 2026. I'm enthusiastic about both academic & industrial opportunities. Please directly email me!</b> 
+🍻 <b>I will be on the industry job market this year. Feel free to reach out at my email if you would like to share opportunities, collaborate, or just chat :)</b> 
